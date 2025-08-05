@@ -29,6 +29,12 @@
     <developerConnection>scm:git:ssh://github.com/MuHamza30/ipstack-apiJava.git</developerConnection>
     <url>https://github.com/MuHamza30/ipstack-apiJava</url>
   </scm>
+  <distributionManagement>
+    <snapshotRepository>
+      <id>ossrh</id>
+      <url>https://central.sonatype.com</url>
+    </snapshotRepository>
+  </distributionManagement>
   <dependencies>
     <dependency>
       <groupId>io.apimatic</groupId>
