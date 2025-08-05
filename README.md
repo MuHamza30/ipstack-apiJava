@@ -28,14 +28,14 @@ Install the SDK by adding the following dependency in your project's pom.xml fil
 
 ```xml
 <dependency>
-  <groupId>io.apimatic</groupId>
+  <groupId>io.sdks</groupId>
   <artifactId>ipstack-java-sdk</artifactId>
   <version>1.0.0</version>
 </dependency>
 ```
 
 You can also view the package at:
-https://central.sonatype.com/artifact/io.apimatic/ipstack-java-sdk/1.0.0
+https://central.sonatype.com/artifact/io.sdks/ipstack-java-sdk/1.0.0
 
 ## Initialize the API Client
 

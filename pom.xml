@@ -6,7 +6,7 @@
 
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>io.apimatic</groupId>
+  <groupId>io.sdks</groupId>
   <artifactId>ipstack-java-sdk</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
